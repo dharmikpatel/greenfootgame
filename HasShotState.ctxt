@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=heroObj\ shotTimer
+comment0.target=HasShotState(Shaktimaan,\ SimpleTimer)
+comment1.params=
+comment1.target=void\ attackEnemy()
+numComments=2

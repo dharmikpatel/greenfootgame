@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Kazaki()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Kazaki\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ mover()
+comment2.text=\r\n\ Mueve\ al\ GeneralBoss\ en\ el\ mundo.\r\n
+comment3.params=
+comment3.target=void\ attack()
+comment3.text=\r\n\ Different\ attacks\ makes\ the\ player.\r\n
+comment4.params=
+comment4.target=void\ generateEnemies()
+comment4.text=\r\n\ Generates\ a\ random\ number\ to\ create\ an\ enemy\ that\ gets\ in\ the\ world.\r\n
+comment5.params=
+comment5.target=void\ checkCounter()
+comment6.params=s\ sound
+comment6.target=void\ reduceHealth(int,\ greenfoot.GreenfootSound)
+comment6.text=\r\n\ Check\ if\ the\ KAzaki\ is\ on\ the\ screen,\ if\ so\ subtract\ 's'\ health.\r\n\ \r\n
+comment7.params=
+comment7.target=int\ getHealth()
+comment7.text=\r\n\ Return\ Kazaki\ health\r\n
+comment8.params=
+comment8.target=void\ isHealthZero()
+comment8.text=\r\n\ If\ health\ is\ <\=\ zero\ the\ ship\ explodes\ and\ disappears.\r\n
+numComments=9

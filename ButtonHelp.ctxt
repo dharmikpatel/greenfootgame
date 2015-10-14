@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ButtonHelp()
+comment1.params=
+comment1.target=Help\ getHelp()
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ ButtonHelp\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ click()
+comment3.text=\r\n\ By\ clicking\ on\ the\ help\ \ appears.\r\n
+comment4.params=newCmd
+comment4.target=void\ setCommand(ButtonCommand)
+numComments=5

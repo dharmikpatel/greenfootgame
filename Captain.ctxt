@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Captain()
+comment0.text=\r\n\ Builder\ Captain\ class.\ StepsY\ stepsX\ and\ the\ variables\ used\ for\ the\ movement\ of\ the\ enemy\ are\ initialized.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Captain\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ mover()
+comment2.text=\r\n\ Move\ to\ Captain\ zigzag\r\n
+comment3.params=
+comment3.target=void\ bounce()
+comment3.text=\r\n\ Touching\ an\ edge\ either\ upper\ or\ lower\ direction\ is\ reversed.\r\n
+comment4.params=
+comment4.target=void\ attack()
+numComments=5

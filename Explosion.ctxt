@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=type
+comment0.target=Explosion(int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Explosion\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ showExplosion()
+comment2.text=\r\n\ When\ a\ ship\ explodes\ an\ image\ appears,\ lasts\ 1\ second\ and\ disappears\r\n
+numComments=3

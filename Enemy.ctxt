@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Enemy()
+comment0.text=\r\n\ Constructor\ of\ the\ class\ enemy.\ The\ velMov\ variable\ is\ initialized\ with\ a\ minimum\ of\ 5\ and\ a\ maximum\ of\ 7.\r\n\ \r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Enemigo\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ mover()
+comment3.params=
+comment3.target=void\ attack()
+comment4.params=newAttack
+comment4.target=void\ changeAttack(Attack)
+comment5.params=
+comment5.target=boolean\ stepByPlayer()
+comment5.text=\r\nIf\ the\ position\ 'X'\ the\ enemy\ is\ less\ than\ 0,\ returns\ true\ otherwise\ returns\ false.\r\n
+numComments=6

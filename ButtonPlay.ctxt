@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment1.params=
+comment1.target=void\ click()
+comment1.text=\r\n\ click\ on\ this\ button\ to\ start\ the\ game\r\n
+comment2.params=newCmd
+comment2.target=void\ setCommand(ButtonCommand)
+comment2.text=\r\n\ Method\ to\ set\ command\r\n
+numComments=3

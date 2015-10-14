@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=text\ f
+comment0.target=Notice(java.lang.String,\ boolean)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Notice\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+numComments=2

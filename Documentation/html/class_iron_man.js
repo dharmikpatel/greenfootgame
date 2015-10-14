@@ -1,0 +1,26 @@
+var class_iron_man =
+[
+    [ "IronMan", "class_iron_man.html#a22e32621759adde374ff9727a428c601", null ],
+    [ "act", "class_iron_man.html#adf82c2b920c2e724de69e0e2b0557455", null ],
+    [ "atacar", "class_iron_man.html#a74f7c3495127a85e2aa500a7bf965453", null ],
+    [ "energiaToDisparos", "class_iron_man.html#a72d57e2aa003fb3ed9a96f8cc5cc9898", null ],
+    [ "generaBonus", "class_iron_man.html#a78d0dd5abb54a7b97c43d323a9de143c", null ],
+    [ "getEnergia", "class_iron_man.html#a5e3f82c3af9e336eef5808548517a26e", null ],
+    [ "getEscudo", "class_iron_man.html#acde10fc561212889705875bf3842a1ef", null ],
+    [ "getNumDisparos", "class_iron_man.html#a44eb951bea851620bb840cc207eaac2c", null ],
+    [ "getPuntos", "class_iron_man.html#a5a0c70e0fccebe511a6b80f31b66249b", null ],
+    [ "getSalud", "class_iron_man.html#a999c2431239e6a4f554154e20dbf07e9", null ],
+    [ "getVidas", "class_iron_man.html#aaf89e8d38cea28eefa4fe6bde7807908", null ],
+    [ "incrementaVidas", "class_iron_man.html#acd9c797332fcf2a48a0a2a8abe16d25e", null ],
+    [ "mover", "class_iron_man.html#a2d281e66e9cfb5d1e9c54a6da66c8241", null ],
+    [ "recuperaEnergia", "class_iron_man.html#aff97abd574d4e0319eb99847f05fa049", null ],
+    [ "restaSalud", "class_iron_man.html#a1900c2339be868f4d6a3dc58ee8aeefd", null ],
+    [ "setDisparos", "class_iron_man.html#af0a1492ac911bd32d924ec902413d05c", null ],
+    [ "setDisparos", "class_iron_man.html#af858ec40d619e0221662b9ceafd53823", null ],
+    [ "setEnergia", "class_iron_man.html#a052349a427cef660d20751c614b75435", null ],
+    [ "setEscudo", "class_iron_man.html#a5439faebbbc338df361df65bde73eebe", null ],
+    [ "setPuntos", "class_iron_man.html#a6f24ea587c71ab320c68a90d05b39dd6", null ],
+    [ "setSalud", "class_iron_man.html#a3aed4560427d50c197c142d03fe0186b", null ],
+    [ "tocoEnemigo", "class_iron_man.html#a00d2dc97b3d4ce013cc2b5be9fae5498", null ],
+    [ "rayoTimer", "class_iron_man.html#a5745c2dfab785a971ebd278790523d4d", null ]
+];

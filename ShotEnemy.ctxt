@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ShotEnemy()
+comment0.text=\r\n\ Constructor\ for\ the\ class\ ShotEnemy\r\n\ Initializes\ the\ variable\ 'velShot'\ with\ a\ random\ number\ for\r\n\ speed\ of\ bullet\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ ShotEnemy\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ shoot()
+comment2.text=\r\n\ When\ trigger\ growth\ in\ the\ world\:\ \r\n\u00A0\u00A0\u00A0\u00A0\u00A0\ *\ Check\ if\ the\ player\ plays,\ if\ so\ detracts\ health\ and\ the\ bullet\ is\ removed.\ \r\n\u00A0\u00A0\u00A0\u00A0\u00A0\ *\ Check\ if\ the\ coordinates\ are\ less\ than\ 0\ and\ if\ so\ removes\ the\ bullet.\ \r\n\u00A0\u00A0\u00A0\u00A0\u00A0\ *\ Check\ if\ the\ player\ touches\ the\ trigger,\ so\ if\ both\ are\ eliminated.\ \r\n\u00A0\u00A0\u00A0\u00A0\u00A0\ *\ Else\ keeps\ moving\ the\ world.\r\n
+numComments=3

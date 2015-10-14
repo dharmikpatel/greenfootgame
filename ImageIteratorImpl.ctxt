@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=images
+comment0.target=ImageIteratorImpl(greenfoot.GreenfootImage[])
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ ImageIteratorImpl\r\n
+comment1.params=
+comment1.target=greenfoot.GreenfootImage\ next()
+comment2.params=
+comment2.target=greenfoot.GreenfootImage\ currentImage()
+comment3.params=
+comment3.target=boolean\ isDone()
+numComments=4

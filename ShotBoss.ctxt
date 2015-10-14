@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=direction
+comment0.target=ShotBoss(int)
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ ShotBoss\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ shoot()
+comment3.params=
+comment3.target=void\ invertDirection()
+comment3.text=\r\n\ Check\ if\ the\ bullet\ goes\ diagonally\ touching\ the\ edge\ up\ or\ down\ changes\ direction.\r\n\ \r\n
+numComments=4

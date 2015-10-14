@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=obj
+comment0.target=void\ attach(PointsObserver)
+comment1.params=
+comment1.target=void\ notifyObservers()
+numComments=2

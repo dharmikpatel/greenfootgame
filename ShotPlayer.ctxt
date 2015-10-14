@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ShotPlayer()
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ ShotPlayer\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ shoot()
+comment2.text=\r\n\ When\ a\ shot\ is\ created\ in\ the\ world,\ move\ forward.\r\n\ Check\ if\ I\ touch\ an\ enemy\ or\ an\ attack,\ if\ so\ both\ objects\ are\ removed\r\n\ Also\ check\ if\ you\ left\ the\ world,\ if\ so\ is\ eliminated\r\n
+numComments=3
